@@ -1,8 +1,0 @@
-.metadata
-.recommenders
-*.jar
-*.project
-*.classpath
-.settings
-*bin
-*target
